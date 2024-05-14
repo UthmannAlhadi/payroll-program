@@ -1,0 +1,7 @@
+
+
+Payroll:
+Name            ID       Age   insurance         Tax               GrossSalary        NetSalary        
+mann            1001     25    RM110.00          RM25.00           RM1000.00          RM865.00         
+al              1002     24    RM110.00          RM47.55           RM1902.00          RM1744.45        
+Average                         RM110.00          RM36.28           RM1451.00          RM1304.72         
